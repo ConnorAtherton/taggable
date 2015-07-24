@@ -1,0 +1,24 @@
+{
+  "name": "taggable",
+  "version": "0.1.0",
+  "description": "Tags for HTML input elements",
+  "main": "dist/taggable.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ConnorAtherton/taggable.git"
+  },
+  "keywords": [
+    "tags",
+    "input",
+    "taggable"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnorAtherton/taggable/issues"
+  },
+  "homepage": "https://github.com/ConnorAtherton/taggable#readme"
+}
